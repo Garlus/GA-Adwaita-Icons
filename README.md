@@ -42,6 +42,6 @@ Please be considerate with bugs or legibility issues.
 My goal is to improve this icon pack to a point of actual usability, however, I am limited by time available.
 Contributions are welcome! 
 
-Also consider donating :blush:
+Consider donating, either to support this project or to support the GNOME project :blush:
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.coff.ee/garlicus)
