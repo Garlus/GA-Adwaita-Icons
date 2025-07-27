@@ -29,15 +29,6 @@ gsettings set org.gnome.desktop.interface icon-theme "Gawaita"
 
 ---
 
-## To Do
-- [ ] Update 16 x 16 Icons
-- [ ] Refine Mimetypes
-- [ ] Adjust Stats/Avatar Icon for more readablility
-- [ ] Start work on devices
-
-
----
-
 Please be considerate with bugs or legibility issues. 
 My goal is to improve this icon pack to a point of actual usability, however, I am limited by time available.
 Contributions are welcome! 
