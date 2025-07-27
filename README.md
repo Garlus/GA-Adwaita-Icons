@@ -40,4 +40,8 @@ gsettings set org.gnome.desktop.interface icon-theme "Gawaita"
 
 Please be considerate with bugs or legibility issues. 
 My goal is to improve this icon pack to a point of actual usability, however, I am limited by time available.
-Contributions are welcome! :blush:
+Contributions are welcome! 
+
+Also consider donating :blush:
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.coff.ee/garlicus)
