@@ -8,6 +8,16 @@ This project is inspired and based on the works of contributers and the GNOME Pr
 You find more information about the GNOME Project here: http://www.gnome.org
 
 ---
+
+> [!IMPORTANT]
+> This icon pack is neither polished or optimized.
+> Legibility and consistency might suffer. Please report all issues
+
+> [!NOTE]
+> This Github was created within a few hours. Unrefienment is expected but not desired. 
+> Contributions are welcome! :blush:
+
+---
 ## Installation 
 1. Download the Repository 
 2. Move "Gawaita" folder to ".icons" in your home directory.
@@ -25,11 +35,6 @@ gsettings set org.gnome.desktop.interface icon-theme "Gawaita"
 - [ ] Adjust Stats/Avatar Icon for more readablility
 - [ ] Start work on devices
 
----
-
-> [!IMPORTANT]
-> This icon pack is neither polished or optimized.
-> Legibility and consistency might suffer. Please report all issues
 
 ---
 
