@@ -7,6 +7,16 @@ This project is inspired and based on the works of contributers and the GNOME Pr
 You find more information about the GNOME Project here: http://www.gnome.org
 
 ---
+## Installation 
+1. Download the Repository 
+2. Move "Gawaita" folder to ".icons" in your home directory.
+3. To set the theme, run the following command in Terminal:
+
+```
+gsettings set org.gnome.desktop.interface icon-theme "Gawaita"
+```
+
+---
 
 ## To Do
 - [ ] Update 16 x 16 Icons
