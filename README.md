@@ -1,2 +1,2 @@
 # gawaita
-Adwaita icons with skeuomorphic elements sprinkled throuw out  
+Adwaita icons with skeuomorphic elements sprinkled throughout
