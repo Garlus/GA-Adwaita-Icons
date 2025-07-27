@@ -1,0 +1,26 @@
+[Icon Theme]
+Name=Gawaita
+Comment=Custom icon theme based on Adwaita
+Inherits=Adwaita
+Directories=scalable/devices,scalable/mimetypes,scalable/places,scalable/status
+
+[scalable/devices]
+Size=48
+Context=Devices
+Type=Scalable
+
+[scalable/mimetypes]
+Size=48
+Context=Mimetypes
+Type=Scalable
+
+[scalable/places]
+Size=48
+Context=Places
+Type=Scalable
+
+[scalable/status]
+Size=48
+Context=Status
+Type=Scalable
+
