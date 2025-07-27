@@ -1,6 +1,7 @@
-# Gawaita
-Adwaita icons with skeuomorphic elements sprinkled throughout
 
+![alt text](https://github.com/Garlus/gawaita/blob/main/src/cover.png "Cover Art")
+
+Adwaita icons with skeuomorphic elements sprinkled throughout
 ---
 
 This project is inspired and based on the works of contributers and the GNOME Project. 
