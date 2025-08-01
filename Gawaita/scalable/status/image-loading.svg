@@ -9,13 +9,13 @@
 <path d="M78 72C78 74.2109 76.207 76 74 76C71.7891 76 70 74.2109 70 72C70 69.7891 71.7891 68 74 68C76.207 68 78 69.7891 78 72Z" fill="url(#paint4_linear_1_3867)"/>
 </g>
 <defs>
-<filter id="filter0_d_1_3867" x="77.3" y="73.425" width="51.4" height="51.275" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_1_3867" x="74.4" y="70.525" width="57.2" height="57.075" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dx="-2" dy="-2"/>
-<feGaussianBlur stdDeviation="5.35"/>
+<feGaussianBlur stdDeviation="6.8"/>
 <feComposite in2="hardAlpha" operator="out"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.21 0"/>
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_3867"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_3867" result="shape"/>
 </filter>
