@@ -11,13 +11,13 @@
 <path d="M91.9414 69.7578C90.4375 68.0664 88.2461 67 85.7969 67H46.2031C43.6914 67 41.4531 68.1172 39.9492 69.8867" stroke="#99C1F1" stroke-width="2" stroke-dasharray="2 2"/>
 </g>
 <defs>
-<filter id="filter0_d_1_2363" x="77.3" y="65.4953" width="51.4" height="51.275" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_1_2363" x="74.4" y="62.5953" width="57.2" height="57.075" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dx="-2" dy="-2"/>
-<feGaussianBlur stdDeviation="5.35"/>
+<feGaussianBlur stdDeviation="6.8"/>
 <feComposite in2="hardAlpha" operator="out"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.21 0"/>
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_2363"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_2363" result="shape"/>
 </filter>
