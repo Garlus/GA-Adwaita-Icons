@@ -8,7 +8,6 @@
 <g filter="url(#filter1_dd_1_2350)">
 <path d="M56.0312 58.0625C52.7422 58.0625 50.0312 60.7734 50.0312 64.0625V80.0625C50.0312 83.3594 52.7422 86.0625 56.0312 86.0625H72.0312C75.3203 86.0625 78.0312 83.3594 78.0312 80.0625V64.0625C78.0312 60.7734 75.3203 58.0625 72.0312 58.0625H56.0312ZM56.0312 62.0625H72.0312C73.1719 62.0625 74.0312 62.9219 74.0312 64.0625V80.0625C74.0312 81.2109 73.1719 82.0625 72.0312 82.0625H56.0312C54.8906 82.0625 54.0312 81.2109 54.0312 80.0625V64.0625C54.0312 62.9219 54.8906 62.0625 56.0312 62.0625Z" fill="white"/>
 </g>
-<rect x="25" y="36" width="78" height="72" fill="url(#paint1_radial_1_2350)" style="mix-blend-mode:overlay"/>
 <defs>
 <filter id="filter0_d_1_2350" x="53.0312" y="63.0625" width="24" height="22" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
@@ -43,9 +42,5 @@
 <stop offset="0.788462" stop-color="#FF7800"/>
 <stop offset="1" stop-color="#F6D32D"/>
 </linearGradient>
-<radialGradient id="paint1_radial_1_2350" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(64 71.2653) rotate(90) scale(36.7347 39.7959)">
-<stop/>
-<stop offset="1" stop-opacity="0"/>
-</radialGradient>
 </defs>
 </svg>

@@ -9,7 +9,6 @@
 <g filter="url(#filter2_dd_1_2461)">
 <path d="M62 66C62.3906 66 62.7735 66.1172 63.1094 66.3359L69.1094 70.3359C70.2891 71.125 70.2891 72.875 69.1094 73.6641L63.1094 77.6641C62.7735 77.8828 62.3906 78 62 78C62 78 59.9922 78 60 76V68C59.9922 66 62 66 62 66Z" fill="white"/>
 </g>
-<rect x="25" y="36" width="78" height="72" fill="url(#paint1_radial_1_2461)" style="mix-blend-mode:overlay"/>
 <defs>
 <filter id="filter0_ddi_1_2461" x="8" y="28" width="112" height="89" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
@@ -67,9 +66,5 @@
 <stop offset="0.394161" stop-color="#E66100"/>
 <stop offset="1" stop-color="#FD59FF"/>
 </linearGradient>
-<radialGradient id="paint1_radial_1_2461" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(64 71.2653) rotate(90) scale(36.7347 39.7959)">
-<stop/>
-<stop offset="1" stop-opacity="0"/>
-</radialGradient>
 </defs>
 </svg>
